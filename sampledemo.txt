@@ -1,1 +1,2 @@
 This is a sample line. commit x.
+This is a sample line. commit y.
